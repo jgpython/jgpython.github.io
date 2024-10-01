@@ -31,9 +31,8 @@ With certifications in **CompTIA A+** and **Network+**, and practical experience
 
 If you'd like to collaborate or discuss cybersecurity, feel free to connect with me:
 
-- **[LinkedIn](https://www.linkedin.com/in/jose-pacheco-cybersecurity)**
-- **[GitHub](https://github.com/josepacheco)**
-- **[Email](mailto:your-email@example.com)**
+- **[LinkedIn](https://www.linkedin.com/in/jose-pacheco-9a8131b1/)**
+- **[GitHub](https://github.com/jgpython)**
 
 ---
 
