@@ -1,8 +1,3 @@
----
-layout: default
-title: Jose Pacheco - Cybersecurity Portfolio
----
-
 # Welcome to My Cybersecurity Portfolio
 
 This repository highlights my journey in cybersecurity, showcasing projects that demonstrate my skills in penetration testing, vulnerability exploitation, and security monitoring. I have a background in physical security and a Master's in **Computer Information Systems** specializing in **Cybersecurity**. My goal is to secure systems, networks, and data from emerging threats.
