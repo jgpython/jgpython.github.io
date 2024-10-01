@@ -1,8 +1,3 @@
----
-layout: default
-title: Jose Pacheco - Cybersecurity Portfolio
----
-
 # Welcome to My Cybersecurity Portfolio
 
 This GitHub repository serves as a showcase of my work in the field of cybersecurity, including my skills, projects, certifications, and blog articles. Below is a link to my detailed portfolio, including information about my journey and the projects I've worked on.
