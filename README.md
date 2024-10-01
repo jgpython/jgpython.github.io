@@ -1,3 +1,8 @@
+---
+layout: default
+title: Jose Pacheco - Cybersecurity Portfolio
+---
+
 # Welcome to My Cybersecurity Portfolio
 
 This repository highlights my journey in cybersecurity, showcasing projects that demonstrate my skills in penetration testing, vulnerability exploitation, and security monitoring. I have a background in physical security and a Master's in **Computer Information Systems** specializing in **Cybersecurity**. My goal is to secure systems, networks, and data from emerging threats.
@@ -26,6 +31,16 @@ With certifications in **CompTIA A+** and **Network+**, and practical experience
 | **Understanding Network Protocols**                   | Network protocols, digital defense strategies             | Wireshark                                      | [Read here](https://medium.com/@josegpach/the-critical-backbone-of-cybersecurity-understanding-network-protocols-7b1ef7d60102) |
 | **DNS Reconnaissance Guide**                          | DNS reconnaissance, information gathering                 | DNSRecon, nslookup, dig                        | [Read here](https://medium.com/@josegpach/unveiling-the-shadows-a-beginners-guide-to-dns-reconnaissance-a1b1481acc41) |
 | **Footprinting Tools Overview**                       | Information gathering, footprinting                       | Nmap, theHarvester, Netcraft                   | [Read here](https://medium.com/@josegpach/navigating-the-waters-of-cybersecurity-a-dive-into-footprinting-tools-dc2d44f7df13) |
+
+## Certifications
+
+| Certification Name           | Issuing Organization | Date Obtained         |
+| ---------------------------- | -------------------- | --------------------- |
+| **CompTIA A+**                | CompTIA              | June 2024           |
+| **CompTIA Network+**          | CompTIA              | September 2024           |
+| **CompTIA Security+**         | CompTIA              | Ongoing Studying                         |
+| **Class D Security License**  | Florida Department of Agriculture and Consumer Services | 2022 |
+| **Master's in CIS with Cybersecurity Focus** | Bellevue University | Ongoing |
 
 ## Connect with Me
 
