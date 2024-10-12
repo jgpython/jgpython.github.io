@@ -5,52 +5,82 @@ title: "Jose Pacheco - Cybersecurity Portfolio"
 
 # Welcome to My Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio, where I showcase my journey in the field, including my projects, certifications, and practical experiences in both physical and information security.
+I am **Jose Pacheco**, a cybersecurity professional currently working at **Walt Disney World** and pursuing a **Master's in Computer Information Systems (CIS)** with a focus on **Cybersecurity**. My expertise lies in both physical and information security, and my goal is to secure systems, networks, and data from emerging threats. Below you will find my educational background, professional experience, projects, and certifications that highlight my journey in the cybersecurity field.
 
-Currently, I am working at **Walt Disney World** while pursuing a **Master's in Computer Information Systems (CIS)** with a focus on **Cybersecurity**. I specialize in securing systems, networks, and data from modern threats. Below you will find links to my featured projects, certifications, and ways to connect with me.
+## Professional Statements
 
-## About Me
+I specialize in cybersecurity and have experience working with various tools and technologies for penetration testing, vulnerability assessment, and system monitoring. My hands-on approach in my home lab, combined with academic learning, has provided me with a deep understanding of cybersecurity fundamentals and advanced security concepts.
 
-With certifications such as **CompTIA A+** and **Network+**, and practical experience in both physical and cybersecurity, I focus on securing data, setting up home labs for hands-on learning, and conducting vulnerability assessments in virtual environments. I combine academic knowledge with real-world experience to improve data security across multiple layers.
+My ultimate career goal is to become a **Security Analyst**, where I can leverage my strong analytical skills, persistence, problem-solving abilities, and passion for continuous learning.
 
----
-
-## Project Overview
-
-Here are some of the key projects I’ve worked on, focusing on penetration testing, vulnerability exploitation, and security monitoring. Each project includes detailed write-ups where you can explore the skills learned, tools used, and real-world applications.
-
-| Project Name                                         | Skills Learned                                            | Tools Used                                      | Link                                                                                                         |
-| ---------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Exploiting PostgreSQL on Metasploitable 2**         | Database exploitation, vulnerability analysis             | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/exploiting-postgresql-on-metasploitable-2-ec59c2e63328)             |
-| **Exploiting FTP Vulnerabilities on Metasploitable 2**| FTP service exploitation, vulnerability analysis          | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/exploiting-ftp-vulnerabilities-on-metasploitable-2-bbd935d42e23)    |
-| **Exploiting Bind Shell Backdoor on Metasploitable 2**| Exploiting backdoors, shell access                        | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/detecting-and-exploiting-bind-shell-backdoor-on-metasploitable-2-f88ed3251a9b) |
-| **Exploiting NFS Vulnerabilities on Metasploitable 2**| NFS protocol exploitation, vulnerability exploitation     | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/identifying-and-exploiting-nfs-vulnerabilities-nessus-and-metasploitable-2-63f5446b0ecf) |
-| **Exploiting VNC Port 5900 on Metasploitable 2**      | VNC protocol exploitation, port scanning                  | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/hacking-metasploitable-2-by-exploiting-vnc-port-5900-bcf7669b06d5)  |
-| **Setting Up and Scanning with Nessus on Kali Linux** | Vulnerability scanning, system hardening                  | Nessus, Kali Linux                             | [Read here](https://medium.com/@josegpach/kicking-off-the-nessus-series-setting-up-and-scanning-with-nessus-on-kali-linux-77d71cce9cc4) |
-| **Setting Up and Configuring Splunk for Monitoring**  | SIEM setup, security monitoring                           | Splunk                                         | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-and-configuring-splunk-for-security-monitoring-950833372eb0) |
-| **Setting Up Tsurugi Linux for Digital Forensics**    | Digital forensics, incident response                      | Tsurugi Linux                                  | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-tsurugi-linux-for-digital-forensics-incident-response-3a32c8c79d9b) |
-| **Setting Up a Malware Analysis Lab**                 | Malware reverse engineering, dynamic malware analysis     | VirtualBox                                     | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-a-malware-analysis-lab-48db29e117e5)     |
-| **Completing the Active Directory Setup**             | Active Directory configuration, network administration    | Windows Server, Active Directory               | [Read here](https://medium.com/@josegpach/home-lab-series-completing-the-active-directory-setup-and-adding-client-machines-2decb42a598a) |
-| **Setting Up a Cyber Range**                          | Vulnerability testing, virtual environment setup          | Metasploitable, VirtualBox                     | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-a-cyber-range-56901c4656f1)              |
-| **Setting Up Kali Linux for Penetration Testing**     | Penetration testing, ethical hacking                      | Kali Linux, Nmap, Metasploit                   | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-kali-linux-for-penetration-testing-a6d38bec02d6) |
-| **pfSense Firewall Setup**                            | Firewall configuration, network security                  | pfSense                                        | [Read here](https://medium.com/@josegpach/home-lab-series-pfsense-setup-5900d49199be)                        |
-| **Understanding Network Protocols**                   | Network protocols, digital defense strategies             | Wireshark                                      | [Read here](https://medium.com/@josegpach/the-critical-backbone-of-cybersecurity-understanding-network-protocols-7b1ef7d60102) |
-| **DNS Reconnaissance Guide**                          | DNS reconnaissance, information gathering                 | DNSRecon, nslookup, dig                        | [Read here](https://medium.com/@josegpach/unveiling-the-shadows-a-beginners-guide-to-dns-reconnaissance-a1b1481acc41) |
-| **Footprinting Tools Overview**                       | Information gathering, footprinting                       | Nmap, theHarvester, Netcraft                   | [Read here](https://medium.com/@josegpach/navigating-the-waters-of-cybersecurity-a-dive-into-footprinting-tools-dc2d44f7df13) |
+### Current Role:
+- **Application Support & Security**: Providing IT and cybersecurity support, including vulnerability assessments and system hardening.
+  
+### Academic Pursuits:
+- **Master’s in CIS**: Focused on advancing my expertise in cybersecurity to stay ahead of modern security challenges.
 
 ---
 
-## Certifications
+## Education and Certifications
 
-I have earned various certifications that demonstrate my knowledge and expertise in both physical and cybersecurity:
+| Degree/Certification Name                              | Institution/Issuing Organization                                         | Date Obtained          |
+| ------------------------------------------------------ | ------------------------------------------------------------------------ | ---------------------- |
+| **Master's in Computer Information Systems (CIS)**      | Bellevue University                                                      | Ongoing                |
+| **Bachelor of Science in Psychology & Criminal Justice**| Florida Southern College                                                 | 2020                   |
+| **CompTIA A+**                                         | CompTIA                                                                  | June 2024              |
+| **CompTIA Network+**                                   | CompTIA                                                                  | September 2024         |
+| **CompTIA Security+**                                  | CompTIA                                                                  | Ongoing Studying       |
+| **Class D Security License**                           | Florida Department of Agriculture & Consumer Services                     | 2022                   |
 
-| Certification Name                   | Issuing Organization                               | Date Obtained         |
-| ------------------------------------ | -------------------------------------------------- | --------------------- |
-| **CompTIA A+**                       | CompTIA                                            | June 2024              |
-| **CompTIA Network+**                 | CompTIA                                            | September 2024         |
-| **CompTIA Security+**                | CompTIA                                            | Ongoing Studying       |
-| **Class D Security License**         | Florida Department of Agriculture & Consumer Services | 2022                 |
-| **Master's in CIS with Cybersecurity Focus** | Bellevue University                                  | Ongoing              |
+---
+
+## Project Portfolio
+
+I have developed several projects that demonstrate my skills in penetration testing, vulnerability exploitation, and cybersecurity auditing. Each project provides detailed insights into the tools and techniques I’ve used to enhance system security.
+
+| Project Name                                             | Skills Learned                                             | Tools Used                                      | Link                                                                                                         |
+| -------------------------------------------------------- | ---------------------------------------------------------  | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **The Hasher**                                            | Password hashing, cryptography                             | Tkinter, Python, hashlib                       | [View on GitHub](https://github.com/jgpython/the_hasher)                                                     |
+| **Exploiting PostgreSQL on Metasploitable 2**             | Database exploitation, vulnerability analysis              | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/exploiting-postgresql-on-metasploitable-2-ec59c2e63328)             |
+| **Exploiting FTP Vulnerabilities on Metasploitable 2**    | FTP service exploitation, vulnerability analysis           | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/exploiting-ftp-vulnerabilities-on-metasploitable-2-bbd935d42e23)    |
+| **Exploiting Bind Shell Backdoor on Metasploitable 2**    | Exploiting backdoors, shell access                         | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/detecting-and-exploiting-bind-shell-backdoor-on-metasploitable-2-f88ed3251a9b) |
+| **Exploiting NFS Vulnerabilities on Metasploitable 2**    | NFS protocol exploitation, vulnerability exploitation      | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/identifying-and-exploiting-nfs-vulnerabilities-nessus-and-metasploitable-2-63f5446b0ecf) |
+| **Exploiting VNC Port 5900 on Metasploitable 2**          | VNC protocol exploitation, port scanning                   | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/hacking-metasploitable-2-by-exploiting-vnc-port-5900-bcf7669b06d5)  |
+| **Setting Up and Scanning with Nessus on Kali Linux**     | Vulnerability scanning, system hardening                   | Nessus, Kali Linux                             | [Read here](https://medium.com/@josegpach/kicking-off-the-nessus-series-setting-up-and-scanning-with-nessus-on-kali-linux-77d71cce9cc4) |
+| **SMB Enumeration and Exploitation in CTFs**              | SMB enumeration, vulnerability analysis, CTF walkthrough   | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/smb-enumeration-and-exploitation-in-ctfs-be6fc147af76)              |
+| **OS Security: Gaining Access Through Weak Passwords**    | OS security, weak passwords, vulnerability exploitation    | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/practical-example-of-os-security-gaining-access-through-weak-passwords-3933d98fc112) |
+| **Defensive Security: Blocking a Malicious IP**           | Defensive security, network security, IP blocking          | Firewall                                       | [Read here](https://medium.com/@josegpach/practical-example-of-defensive-security-blocking-a-malicious-ip-96721a08c9b5) |
+| **Setting Up and Configuring Splunk for Monitoring**      | SIEM setup, security monitoring                            | Splunk                                         | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-and-configuring-splunk-for-security-monitoring-950833372eb0) |
+| **Setting Up a Malware Analysis Lab**                     | Malware reverse engineering, dynamic malware analysis      | VirtualBox                                     | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-a-malware-analysis-lab-48db29e117e5)     |
+
+---
+
+## Cybersecurity Skills
+
+Here are some of the core cybersecurity skills and concepts I’ve gained through hands-on projects, formal education, and certification courses:
+
+| Skill/Knowledge Learned                           | Details                                                                 |
+| ------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Information Security Auditing**                 | NIST Risk Management Framework, CISSP, Security Audits                  |
+| **Network Security**                              | TCP/IP Model, Network Hardening, Cloud Networks                         |
+| **Linux & SQL**                                   | Command-line interface (CLI), SQL database management, Linux scripting  |
+| **Incident Detection & Response**                 | Incident lifecycle, intrusion detection systems (IDS), SIEM tools       |
+| **Packet Analysis**                               | Tcpdump, Wireshark, packet capturing and analysis                       |
+| **Automation with Python**                        | Python programming for cybersecurity tasks, automation with scripts     |
+
+---
+
+## Tools and Technologies
+
+During my cybersecurity journey, I have used various tools that enhance my ability to protect and secure systems:
+
+- **Wireshark** – For analyzing network traffic and detecting anomalies.
+- **Splunk** – For monitoring and securing enterprise systems through SIEM.
+- **Nessus** – Vulnerability scanning and risk management.
+- **Metasploit** – For penetration testing and exploiting vulnerabilities.
+- **Kali Linux** – Penetration testing, security auditing, and ethical hacking.
+- **Python** – For automation and scripting in cybersecurity tasks.
+- **Tcpdump** – Packet capture and network traffic analysis.
 
 ---
 
@@ -63,4 +93,4 @@ If you'd like to collaborate or discuss cybersecurity, feel free to connect with
 
 ---
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio! Stay tuned for updates as I continue to complete more certifications and projects.
