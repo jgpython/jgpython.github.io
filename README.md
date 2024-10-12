@@ -1,54 +1,50 @@
----
-layout: default
-title: "Jose Pacheco - Cybersecurity Portfolio"
----
+# Jose Pacheco - Cybersecurity Portfolio
 
-# Welcome to My Cybersecurity Portfolio
-
-This repository highlights my journey in cybersecurity, showcasing projects that demonstrate my skills in penetration testing, vulnerability exploitation, and security monitoring. I have a background in physical security and a Master's in **Computer Information Systems** specializing in **Cybersecurity**. My goal is to secure systems, networks, and data from emerging threats.
+Welcome to my **Cybersecurity Portfolio**, where I showcase my journey in cybersecurity. This GitHub page contains a collection of my projects, educational background, certifications, and professional experience, all focused on securing systems, networks, and data from emerging threats.
 
 ## About Me
 
-With certifications in **CompTIA A+** and **Network+**, and practical experience in both physical and cybersecurity, I focus on improving data security, setting up home labs for hands-on learning, and conducting vulnerability assessments on virtual environments. I currently work at **Walt Disney World** while advancing my expertise in cybersecurity.
+I am currently working at **Walt Disney World** while pursuing a **Master's in Computer Information Systems (CIS)**, with a specialization in **Cybersecurity**. My background in both physical and information security has provided me with a unique perspective on protecting sensitive systems.
 
-## Project Overview
+I have certifications in **CompTIA A+** and **CompTIA Network+**, and I am working towards completing **Security+**. My goal is to become a **Security Analyst**, where I can leverage my analytical abilities and cybersecurity knowledge to protect systems from cyber threats.
 
-| Project Name                                         | Skills Learned                                            | Tools Used                                      | Link                                                                                                         |
-| ---------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Exploiting PostgreSQL on Metasploitable 2**         | Database exploitation, vulnerability analysis             | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/exploiting-postgresql-on-metasploitable-2-ec59c2e63328)             |
-| **Exploiting FTP Vulnerabilities on Metasploitable 2**| FTP service exploitation, vulnerability analysis          | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/exploiting-ftp-vulnerabilities-on-metasploitable-2-bbd935d42e23)    |
-| **Exploiting Bind Shell Backdoor on Metasploitable 2**| Exploiting backdoors, shell access                        | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/detecting-and-exploiting-bind-shell-backdoor-on-metasploitable-2-f88ed3251a9b) |
-| **Exploiting NFS Vulnerabilities on Metasploitable 2**| NFS protocol exploitation, vulnerability exploitation     | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/identifying-and-exploiting-nfs-vulnerabilities-nessus-and-metasploitable-2-63f5446b0ecf) |
-| **Exploiting VNC Port 5900 on Metasploitable 2**      | VNC protocol exploitation, port scanning                  | Nessus, Metasploit                             | [Read here](https://medium.com/@josegpach/hacking-metasploitable-2-by-exploiting-vnc-port-5900-bcf7669b06d5)  |
-| **Setting Up and Scanning with Nessus on Kali Linux** | Vulnerability scanning, system hardening                  | Nessus, Kali Linux                             | [Read here](https://medium.com/@josegpach/kicking-off-the-nessus-series-setting-up-and-scanning-with-nessus-on-kali-linux-77d71cce9cc4) |
-| **Setting Up and Configuring Splunk for Monitoring**  | SIEM setup, security monitoring                           | Splunk                                         | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-and-configuring-splunk-for-security-monitoring-950833372eb0) |
-| **Setting Up Tsurugi Linux for Digital Forensics**    | Digital forensics, incident response                      | Tsurugi Linux                                  | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-tsurugi-linux-for-digital-forensics-incident-response-3a32c8c79d9b) |
-| **Setting Up a Malware Analysis Lab**                 | Malware reverse engineering, dynamic malware analysis     | VirtualBox                                     | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-a-malware-analysis-lab-48db29e117e5)     |
-| **Completing the Active Directory Setup**             | Active Directory configuration, network administration    | Windows Server, Active Directory               | [Read here](https://medium.com/@josegpach/home-lab-series-completing-the-active-directory-setup-and-adding-client-machines-2decb42a598a) |
-| **Setting Up a Cyber Range**                          | Vulnerability testing, virtual environment setup          | Metasploitable, VirtualBox                     | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-a-cyber-range-56901c4656f1)              |
-| **Setting Up Kali Linux for Penetration Testing**     | Penetration testing, ethical hacking                      | Kali Linux, Nmap, Metasploit                   | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-kali-linux-for-penetration-testing-a6d38bec02d6) |
-| **pfSense Firewall Setup**                            | Firewall configuration, network security                  | pfSense                                        | [Read here](https://medium.com/@josegpach/home-lab-series-pfsense-setup-5900d49199be)                        |
-| **Understanding Network Protocols**                   | Network protocols, digital defense strategies             | Wireshark                                      | [Read here](https://medium.com/@josegpach/the-critical-backbone-of-cybersecurity-understanding-network-protocols-7b1ef7d60102) |
-| **DNS Reconnaissance Guide**                          | DNS reconnaissance, information gathering                 | DNSRecon, nslookup, dig                        | [Read here](https://medium.com/@josegpach/unveiling-the-shadows-a-beginners-guide-to-dns-reconnaissance-a1b1481acc41) |
-| **Footprinting Tools Overview**                       | Information gathering, footprinting                       | Nmap, theHarvester, Netcraft                   | [Read here](https://medium.com/@josegpach/navigating-the-waters-of-cybersecurity-a-dive-into-footprinting-tools-dc2d44f7df13) |
+## Projects
 
-## Certifications
+I’ve worked on a range of projects, from penetration testing to security monitoring and defensive security. These projects are built using tools like **Metasploit**, **Nessus**, **Wireshark**, **Splunk**, and **Python** for automation. Here are some key projects:
 
-| Certification Name           | Issuing Organization | Date Obtained         |
-| ---------------------------- | -------------------- | --------------------- |
-| **CompTIA A+**                | CompTIA              | June 2024           |
-| **CompTIA Network+**          | CompTIA              | September 2024           |
-| **CompTIA Security+**         | CompTIA              | Ongoing Studying                         |
-| **Class D Security License**  | Florida Department of Agriculture and Consumer Services | 2022 |
-| **Master's in CIS with Cybersecurity Focus** | Bellevue University | Ongoing |
+- **[The Hasher](https://github.com/jgpython/the_hasher)**: A Python tool for password hashing with MD5, SHA256, SHA512, and SHA1.
+- **[Exploiting PostgreSQL on Metasploitable 2](https://medium.com/@josegpach/exploiting-postgresql-on-metasploitable-2-ec59c2e63328)**: Vulnerability analysis and database exploitation.
+- **[Exploiting FTP Vulnerabilities on Metasploitable 2](https://medium.com/@josegpach/exploiting-ftp-vulnerabilities-on-metasploitable-2-bbd935d42e23)**: Exploitation of weak FTP service configurations.
+- **[SMB Enumeration and Exploitation in CTFs](https://medium.com/@josegpach/smb-enumeration-and-exploitation-in-ctfs-be6fc147af76)**: Enumerating and exploiting SMB vulnerabilities.
+- **[Defensive Security: Blocking a Malicious IP](https://medium.com/@josegpach/practical-example-of-defensive-security-blocking-a-malicious-ip-96721a08c9b5)**: Blocking IPs to protect networks from potential attacks.
+
+You can find more projects and the full list on my **[GitHub Pages portfolio](https://jgpython.github.io/)**.
+
+## Skills and Technologies
+
+- **Penetration Testing**: Using tools like Metasploit, Nessus, and Kali Linux.
+- **Network Security**: Understanding of TCP/IP models, firewalls, and network hardening.
+- **Vulnerability Management**: Hands-on experience with Nessus and other vulnerability scanning tools.
+- **Incident Detection & Response**: Using SIEM tools like Splunk for real-time security monitoring.
+- **Python Automation**: Writing Python scripts to automate cybersecurity tasks.
+- **Packet Analysis**: Using **Wireshark** and **Tcpdump** for capturing and analyzing network traffic.
+
+## Education and Certifications
+
+- **Master's in Computer Information Systems (CIS)** - Bellevue University (Ongoing)
+- **Bachelor of Science in Psychology & Criminal Justice** - Florida Southern College
+- **CompTIA A+** (2024)
+- **CompTIA Network+** (2024)
+- **CompTIA Security+** (In Progress)
+- **Class D Security License** (2022)
 
 ## Connect with Me
 
-If you'd like to collaborate or discuss cybersecurity, feel free to connect with me:
+Feel free to reach out if you’d like to discuss my projects, collaborate, or talk about cybersecurity in general. You can connect with me through:
 
 - **[LinkedIn](https://www.linkedin.com/in/jose-pacheco-9a8131b1/)**
 - **[GitHub](https://github.com/jgpython)**
 
 ---
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio! Stay tuned as I continue to add more projects, certifications, and updates to my cybersecurity journey.
