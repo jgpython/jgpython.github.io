@@ -13,8 +13,6 @@ I specialize in cybersecurity and have experience working with various tools and
 
 My ultimate career goal is to become a **Security Analyst**, where I can leverage my strong analytical skills, persistence, problem-solving abilities, and passion for continuous learning.
 
-### Current Role:
-- **Application Support & Security**: Providing IT and cybersecurity support, including vulnerability assessments and system hardening.
   
 ### Academic Pursuits:
 - **Master’s in CIS**: Focused on advancing my expertise in cybersecurity to stay ahead of modern security challenges.
