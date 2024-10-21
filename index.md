@@ -37,15 +37,21 @@ I specialize in **penetration testing**, **vulnerability assessment**, and **sys
 
 ## 💻 **Project Portfolio**
 
-These projects demonstrate my skills in penetration testing, vulnerability exploitation, and cybersecurity auditing.
+These projects demonstrate my skills in penetration testing, vulnerability exploitation, cybersecurity automation, and auditing.
 
 | **Project Name**                                      | **Skills Learned**                             | **Tools Used**                           | **Link**                                                                                                     |
 | ----------------------------------------------------- | ---------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Nmap Helper**                                       | Nmap command execution, network scanning       | Python, Nmap                            | [View on GitHub](https://github.com/jgpython/nmap_helper)                                                    |
 | **The Hasher**                                        | Password hashing, cryptography                 | Tkinter, Python, hashlib                 | [View on GitHub](https://github.com/jgpython/the_hasher)                                                     |
 | **Exploiting PostgreSQL on Metasploitable 2**         | Database exploitation, vulnerability analysis  | Nessus, Metasploit                       | [Read here](https://medium.com/@josegpach/exploiting-postgresql-on-metasploitable-2-ec59c2e63328)             |
 | **Exploiting FTP Vulnerabilities on Metasploitable 2**| FTP service exploitation, vulnerability analysis| Nessus, Metasploit                      | [Read here](https://medium.com/@josegpach/exploiting-ftp-vulnerabilities-on-metasploitable-2-bbd935d42e23)    |
 | **Setting Up and Configuring Splunk for Monitoring**  | SIEM setup, security monitoring                | Splunk                                 | [Read here](https://medium.com/@josegpach/home-lab-series-setting-up-and-configuring-splunk-for-security-monitoring-950833372eb0) |
-| **Nmap Helper**                                      | Nmap command execution, network scanning       | Python, Nmap                            | [View on GitHub](https://github.com/jgpython/nmap_helper)                                                    |
+| **SMB Enumeration and Exploitation in CTFs**          | SMB enumeration, vulnerability analysis        | Nmap, Enum4Linux, Metasploit            | [Read here](https://medium.com/@josegpach/smb-enumeration-and-exploitation-in-ctfs-be6fc147af76)              |
+| **Exploiting Weak Passwords in OS Security**          | OS security, privilege escalation              | TryHackMe, Linux                        | [Read here](https://medium.com/@josegpach/practical-example-of-os-security-gaining-access-through-weak-passwords-3933d98fc112) |
+| **Defensive Security: Blocking a Malicious IP**       | Defensive security, network security, IP blocking | Firewall                            | [Read here](https://medium.com/@josegpach/practical-example-of-defensive-security-blocking-a-malicious-ip-96721a08c9b5) |
+| **Exploiting Bind Shell Backdoor on Metasploitable 2**| Exploiting backdoors, shell access             | Nessus, Metasploit                      | [Read here](https://medium.com/@josegpach/detecting-and-exploiting-bind-shell-backdoor-on-metasploitable-2-f88ed3251a9b) |
+| **Exploiting NFS Vulnerabilities on Metasploitable 2**| NFS protocol exploitation, vulnerability exploitation | Nessus, Metasploit                  | [Read here](https://medium.com/@josegpach/identifying-and-exploiting-nfs-vulnerabilities-nessus-and-metasploitable-2-63f5446b0ecf) |
+| **Exploiting VNC Port 5900 on Metasploitable 2**      | VNC protocol exploitation, port scanning       | Nessus, Metasploit                      | [Read here](https://medium.com/@josegpach/hacking-metasploitable-2-by-exploiting-vnc-port-5900-bcf7669b06d5)  |
 
 ---
 
@@ -66,6 +72,7 @@ These projects demonstrate my skills in penetration testing, vulnerability explo
 Throughout my cybersecurity journey, I've used various tools to enhance security:
 
 - **Wireshark** – Network traffic analysis
+- **Nmap** - Network scanning
 - **Splunk** – Security monitoring (SIEM)
 - **Nessus** – Vulnerability scanning
 - **Metasploit** – Penetration testing
