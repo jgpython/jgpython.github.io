@@ -27,7 +27,7 @@ I specialize in **penetration testing**, **vulnerability assessment**, and **sys
 | **Degree/Certification**                             | **Institution/Issuer**                                                      | **Date Obtained**         |
 | ---------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------- |
 | **Master's in Computer Information Systems (CIS)**    | Bellevue University                                                         | Ongoing                   |
-| **B.Sc. in Psychology & Criminal Justice**           | Florida Southern College                                                    | 2020                      |
+| **B.S. in Psychology & Criminal Justice**            | Florida Southern College                                                    | 2020                      |
 | **CompTIA A+**                                       | CompTIA                                                                     | June 2024                 |
 | **CompTIA Network+**                                 | CompTIA                                                                     | September 2024            |
 | **CompTIA Security+**                                | CompTIA                                                                     | Ongoing                   |
